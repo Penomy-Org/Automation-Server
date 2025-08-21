@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <ItemGroup>
+    <ProjectReference Include="..\Util\Util.Serilog\Util.Serilog.csproj"/>
+    <ProjectReference Include="..\Util\Util.SnowFlakeId\Util.SnowFlakeId.csproj"/>
+    <ProjectReference Include="..\Util\Util.SQLite\Util.SQLite.csproj"/>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="SonarAnalyzer.CSharp">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design"/>
+  </ItemGroup>
+</Project>

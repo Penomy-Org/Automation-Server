@@ -1,0 +1,9 @@
+<Project>
+  <PropertyGroup>
+    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageVersion Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.0"/>
+    <PackageVersion Include="SonarAnalyzer.CSharp" Version="10.9.0.115408"/>
+  </ItemGroup>
+</Project>
