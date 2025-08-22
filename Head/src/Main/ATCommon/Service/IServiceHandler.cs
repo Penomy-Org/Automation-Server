@@ -1,7 +1,7 @@
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace PNCommon.Service;
+namespace ATCommon.Service;
 
 /// <summary>
 ///     This interface is the marker interface for service handler of

@@ -4,7 +4,7 @@ using System.Reflection;
 using Microsoft.AspNetCore.Mvc.Filters;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace PNCommon.DependencyInjection;
+namespace ATCommon.DependencyInjection;
 
 /// <summary>
 ///     Provides extension methods for registering filters in the service collection.

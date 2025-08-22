@@ -1,4 +1,4 @@
-namespace PNCommon.Service;
+namespace ATCommon.Service;
 
 /// <summary>
 ///     The marker interface for service response of each api.

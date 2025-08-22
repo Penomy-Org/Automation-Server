@@ -1,6 +1,6 @@
 using System;
 
-namespace PNCommon;
+namespace ATCommon;
 
 internal sealed class Program
 {

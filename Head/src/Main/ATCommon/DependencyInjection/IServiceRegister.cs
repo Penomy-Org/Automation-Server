@@ -1,7 +1,7 @@
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace PNCommon.DependencyInjection;
+namespace ATCommon.DependencyInjection;
 
 /// <summary>
 ///     Interface for registering services of api.

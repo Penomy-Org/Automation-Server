@@ -1,7 +1,7 @@
 using System;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace PNCommon.DependencyInjection;
+namespace ATCommon.DependencyInjection;
 
 /// <summary>
 ///     Provides extension methods to register lazy services,

@@ -4,16 +4,16 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Design"/>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Main\Job\AT_Job_0003\AT_Job_0003.csproj"/>
-    <ProjectReference Include="..\Main\Job\AT_Job_0002\AT_Job_0002.csproj"/>
-    <ProjectReference Include="..\Main\Api\AT_Api_0001\AT_Api_0001.csproj"/>
-    <ProjectReference Include="..\Main\Job\AT_Job_0001\AT_Job_0001.csproj"/>
-    <ProjectReference Include="..\Main\Api\AT_Api_0002\AT_Api_0002.csproj"/>
-    <ProjectReference Include="..\Main\Api\AT_Api_0003\AT_Api_0003.csproj"/>
-    <ProjectReference Include="..\Main\Api\AT_Api_0004\AT_Api_0004.csproj"/>
-    <ProjectReference Include="..\Main\Api\AT_Api_0005\AT_Api_0005.csproj"/>
+    <ProjectReference Include="..\Main\Job\AT_Job_0003\AT_Job_0003.csproj" />
+    <ProjectReference Include="..\Main\Job\AT_Job_0002\AT_Job_0002.csproj" />
+    <ProjectReference Include="..\Main\Job\AT_Job_0001\AT_Job_0001.csproj" />
+    <ProjectReference Include="..\Main\Api\AT_Api_0001\AT_Api_0001.csproj" />
+    <ProjectReference Include="..\Main\Api\AT_Api_0002\AT_Api_0002.csproj" />
+    <ProjectReference Include="..\Main\Api\AT_Api_0003\AT_Api_0003.csproj" />
+    <ProjectReference Include="..\Main\Api\AT_Api_0004\AT_Api_0004.csproj" />
+    <ProjectReference Include="..\Main\Api\AT_Api_0005\AT_Api_0005.csproj" />
   </ItemGroup>
 </Project>

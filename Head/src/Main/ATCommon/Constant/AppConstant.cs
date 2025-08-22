@@ -1,4 +1,4 @@
-namespace PNCommon.Constant;
+namespace ATCommon.Constant;
 
 /// <summary>
 ///     This class defines application-wide constants.
