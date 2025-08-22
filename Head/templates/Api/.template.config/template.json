@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Jackpieking",
+  "classifications": ["Common", "Library"],
+  "identity": "Template.AppApi",
+  "name": "Core api classlib (controller base)",
+  "shortName": "app-api",
+  "sourceName": "ApiTemplate",
+  "tags": {
+    "language": "C#",
+    "type": "item"
+  },
+  "preferNameDirectory": true
+}

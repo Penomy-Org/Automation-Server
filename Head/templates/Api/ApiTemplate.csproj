@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\..\ATCommon\ATCommon.csproj"/>
+    <ProjectReference Include="..\..\AT_RefAll\AT_RefAll.csproj"/>
+  </ItemGroup>
+</Project>
