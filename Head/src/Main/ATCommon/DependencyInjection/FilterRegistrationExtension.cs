@@ -18,7 +18,7 @@ public static class FilterRegistrationExtension
     ///     Filters are determined by whether they implement the interface
     ///     <see cref="IAsyncActionFilter"/>. If no filters are found in the
     ///     given assembly, an exception is thrown.
-    /// </summary>
+    /// /// </summary>
     /// <param name="services">
     ///     The service collection to register the filters to.
     /// </param>
