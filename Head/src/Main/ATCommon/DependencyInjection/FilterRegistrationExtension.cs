@@ -1,7 +1,6 @@
 using System;
 using System.Linq;
 using System.Reflection;
-
 using Microsoft.AspNetCore.Mvc.Filters;
 using Microsoft.Extensions.DependencyInjection;
 
