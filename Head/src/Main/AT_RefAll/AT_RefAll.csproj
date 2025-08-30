@@ -1,8 +1,8 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <ItemGroup>
-    <ProjectReference Include="..\..\Util\Util_Quartz\Util_Quartz.csproj"/>
-    <ProjectReference Include="..\..\Util\Util_Serilog\Util_Serilog.csproj"/>
-    <ProjectReference Include="..\..\Util\Util_SnowFlakeId\Util_SnowFlakeId.csproj"/>
-    <ProjectReference Include="..\..\Util\Util_SQLite\Util_SQLite.csproj"/>
+    <ProjectReference Include="..\..\Util\Util_EFCore_SQLite\Util_EFCore_SQLite.csproj" />
+    <ProjectReference Include="..\..\Util\Util_BgJob_Quartz\Util_BgJob_Quartz.csproj" />
+    <ProjectReference Include="..\..\Util\Util_IdGen_SnowFlakeId\Util_IdGen_SnowFlakeId.csproj" />
+    <ProjectReference Include="..\..\Util\Util_Log_Serilog\Util_Log_Serilog.csproj" />
   </ItemGroup>
 </Project>
